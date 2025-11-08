@@ -100,3 +100,8 @@ export const Error = styled.i`
   letter-spacing: 0px;
   font-weight: 300;
 `;
+export const Form = styled.form`
+  display: flex;
+  gap: 50px;
+  flex-direction: column;
+`;
